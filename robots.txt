@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mereproi.github.io/sitemap
+Sitemap: https://mereproi.github.io/app/sitemap
+Sitemap: https://mereproi.github.io/assets/sitemap
+Sitemap: https://mereproi.github.io/css/sitemap
+Sitemap: https://mereproi.github.io/includes/sitemap
+Sitemap: https://mereproi.github.io/item/sitemap
+Sitemap: https://mereproi.github.io/src/sitemap
